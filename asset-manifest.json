@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/RachidP78/react-tutorial/static/css/main.9345b6e2.css",
-    "main.js": "/RachidP78/react-tutorial/static/js/main.44ef08ce.js",
-    "index.html": "/RachidP78/react-tutorial/index.html",
-    "main.9345b6e2.css.map": "/RachidP78/react-tutorial/static/css/main.9345b6e2.css.map",
-    "main.44ef08ce.js.map": "/RachidP78/react-tutorial/static/js/main.44ef08ce.js.map"
+    "main.css": "/react-tutorial/static/css/main.9345b6e2.css",
+    "main.js": "/react-tutorial/static/js/main.44ef08ce.js",
+    "index.html": "/react-tutorial/index.html",
+    "main.9345b6e2.css.map": "/react-tutorial/static/css/main.9345b6e2.css.map",
+    "main.44ef08ce.js.map": "/react-tutorial/static/js/main.44ef08ce.js.map"
   },
   "entrypoints": [
     "static/css/main.9345b6e2.css",
